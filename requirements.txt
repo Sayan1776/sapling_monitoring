@@ -1,0 +1,5 @@
+rasterio
+opencv-python
+numpy
+pandas
+scipy
